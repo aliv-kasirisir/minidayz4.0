@@ -1,0 +1,836 @@
+<?xml version="1.0" ?>
+
+<list>
+
+<!--Role Feedback-->
+
+<text>
+	<id>1</id>
+	<name>The bleeding has stopped</name>
+ </text>
+
+<text>
+	<id>2</id>
+	<name>I feel good</name>
+ </text>
+
+<text>
+	<id>3</id>
+	<name>I feel like I'm losing blood</name>
+ </text>
+
+<text>
+	<id>4</id>
+	<name>I'm freezing</name>
+ </text>
+
+<text>
+	<id>5</id>
+	<name>I'm dying of hunger</name>
+ </text>
+
+<text>
+	<id>6</id>
+	<name>I'm dying of thirst</name>
+ </text>
+
+<text>
+	<id>7</id>
+	<name>I found something in this trunk</name>
+ </text>
+
+<text>
+	<id>8</id>
+	<name>There is nothing in this trunk</name>
+ </text>
+
+<!--Character feedback when out of ammo  -->
+<text>
+	<id>9</id>
+	<name>The ammunition is out</name>
+ </text>
+<!--Character feedback when ranged weapons run out of ammo -->
+<text>
+	<id>10</id>
+	<name>The store is empty</name>
+ </text>
+
+<text>
+	<id>11</id>
+	<name>The weapon is broken!</name>
+ </text>
+
+<text>
+	<id>12</id>
+	<name>There is no water in this pump</name>
+ </text>
+
+<text>
+	<id>13</id>
+	<name>I don't want to drink</name>
+ </text>
+
+<text>
+	<id>14</id>
+	<name>I ate a raw steak</name>
+ </text>
+
+<text>
+	<id>15</id>
+	<name>For this I need a water pump</name>
+ </text>
+
+<text>
+	<id>16</id>
+	<name>I filled it with water from the water pump</name>
+ </text>
+
+<text>
+	<id>17</id>
+	<name>I ate</name>
+ </text>
+
+<text>
+	<id>18</id>
+	<name>I drank</name>
+ </text>
+
+<text>
+	<id>19</id>
+	<name>I used</name>
+ </text>
+
+<text>
+	<id>32</id>
+	<name>The weapon is fully loaded</name>
+ </text>
+
+<text>
+	<id>33</id>
+	<name>The cartridges are loaded</name>
+ </text>
+
+<!--Character feedback when trying to load the wrong ammo or attachment -->
+<text>
+	<id>34</id>
+	<name>Doesn't fit</name>
+ </text>
+
+<text>
+	<id>35</id>
+	<name>I used up the bandage</name>
+ </text>
+
+<text>
+	<id>36</id>
+	<name>I'm not bleeding</name>
+ </text>
+
+<text>
+	<id>37</id>
+	<name>The blood transfusion is complete</name>
+ </text>
+
+<!--Character feedback when trying to put batteries in night vision goggles/headlamp -->
+<text>
+	<id>38</id>
+	<name>Already charged</name>
+ </text>
+
+<text>
+	<id>39</id>
+	<name>I need a headlamp or night vision goggles</name>
+ </text>
+
+<text>
+	<id>40</id>
+	<name>I need to put the fire pit kit on the ground to start a fire</name>
+ </text>
+
+<text>
+	<id>41</id>
+	<name>I drank whiskey</name>
+ </text>
+
+<text>
+	<id>42</id>
+	<name>The saline transfusion is complete</name>
+ </text>
+
+<text>
+	<id>43</id>
+	<name>I took my vitamins</name>
+ </text>
+
+<text>
+	<id>44</id>
+	<name>The weapon broke</name>
+ </text>
+
+<text>
+	<id>45</id>
+	<name>The weapon has been cleaned</name>
+ </text>
+
+<text>
+	<id>46</id>
+	<name>I took tetracycline</name>
+ </text>
+
+<text>
+	<id>47</id>
+	<name>The car is filled with gas</name>
+ </text>
+
+<text>
+	<id>48</id>
+	<name>For this I need a car</name>
+ </text>
+
+<text>
+	<id>49</id>
+	<name>The bottle is empty</name>
+ </text>
+
+<text>
+	<id>50</id>
+	<name>I took a sip from the bottle of water</name>
+ </text>
+
+<text>
+	<id>51</id>
+	<name>The flask is empty</name>
+ </text>
+
+<text>
+	<id>52</id>
+	<name>I took a sip from the flask</name>
+ </text>
+
+<text>
+	<id>53</id>
+	<name>The mine has been planted</name>
+ </text>
+
+<text>
+	<id>54</id>
+	<name>The trap is set</name>
+ </text>
+
+<text>
+	<id>55</id>
+	<name>The car has been repaired</name>
+ </text>
+
+<text>
+	<id>56</id>
+	<name>I cooked a steak</name>
+ </text>
+
+<text>
+	<id>57</id>
+	<name>For this I need a fire</name>
+ </text>
+
+<text>
+	<id>58</id>
+	<name>I ate fried meat</name>
+ </text>
+
+<text>
+	<id>59</id>
+	<name>I drank Nuko Cola. I feel great!</name>
+ </text>
+
+<text>
+	<id>60</id>
+	<name>The prey has been skinned</name>
+ </text>
+
+<text>
+	<id>61</id>
+	<name>There is nothing to skin</name>
+ </text>
+
+<text>
+	<id>62</id>
+	<name>There are no free slots</name>
+ </text>
+
+<text>
+	<id>63</id>
+	<name>The knife broke</name>
+ </text>
+
+<text>
+	<id>64</id>
+	<name>For this I need more wooden sticks</name>
+ </text>
+
+<text>
+	<id>65</id>
+	<name>The headlamp is broken</name>
+ </text>
+
+<text>
+	<id>66</id>
+	<name>The night vision goggles are broken</name>
+ </text>
+
+<text>
+	<id>67</id>
+	<name>I drank light beer</name>
+ </text>
+
+<text>
+	<id>68</id>
+	<name>I will need a pickaxe, pitchfork or shovel</name>
+ </text>
+
+<text>
+	<id>69</id>
+	<name>It is impossible to plant here</name>
+ </text>
+
+<text>
+	<id>70</id>
+	<name>Planted</name>
+ </text>
+
+<text>
+	<id>71</id>
+	<name>Block</name>
+ </text>
+
+<text>
+	<id>72</id>
+	<name>I need a knife to skin my prey</name>
+ </text>
+
+<!--But when you try to switch guns and there is no weapon -->
+<text>
+	<id>73</id>
+	<name>I don't have any ranged weapons</name>
+ </text>
+
+<text>
+	<id>74</id>
+	<name>Tap here to throw a flare</name>
+ </text>
+
+<text>
+	<id>75</id>
+	<name>Tap here to throw a grenade</name>
+ </text>
+
+<text>
+	<id>76</id>
+	<name>She's already full</name>
+ </text>
+
+<text>
+	<id>77</id>
+	<name>I took a sip from the water pump</name>
+ </text>
+
+<text>
+	<id>78</id>
+	<name>I want to eat something</name>
+ </text>
+
+<text>
+	<id>79</id>
+	<name>I want to drink something</name>
+ </text>
+
+<text>
+	<id>80</id>
+	<name>It's quite cold</name>
+ </text>
+
+<text>
+	<id>81</id>
+	<name>I'm starting to freeze</name>
+ </text>
+
+<text>
+	<id>82</id>
+	<name>I'm starting to warm up</name>
+ </text>
+
+<text>
+	<id>83</id>
+	<name>I need more battery power</name>
+ </text>
+
+<text>
+	<id>84</id>
+	<name>There appears to be no military debris nearby</name>
+ </text>
+
+<text>
+	<id>85</id>
+	<name>There appears to be some military debris nearby</name>
+ </text>
+
+<!--Friendly survivor feedback when health is below 50% -->
+<text>
+	<id>100</id>
+	<name>Damn, I'm seriously injured</name>
+ </text>
+
+<!--Friendly survivor feedback for starting sentry when the character enters a building -->
+<text>
+	<id>101</id>
+	<name>Okay, I'll stand guard</name>
+ </text>
+
+<text>
+	<id>102</id>
+	<name>I'll cover you while you look for prey</name>
+ </text>
+
+<!--Friendly survivor feedback when the character enters firing range -->
+<text>
+	<id>103</id>
+	<name>You are blocking the target!</name>
+ </text>
+
+<!--Friendly survivor feedback when health is above 50% -->
+<text>
+	<id>104</id>
+	<name>Hey! Let's unite!</name>
+ </text>
+
+<!--Hostile melee survivor feedback from being hit by bullets -->
+<text>
+	<id>105</id>
+	<name>That's not fair!</name>
+ </text>
+
+<text>
+	<id>106</id>
+	<name>Damn, he's got a gun!</name>
+ </text>
+
+<text>
+	<id>107</id>
+	<name>Your mother!</name>
+ </text>
+
+<!--Found the character's hostile gun-wielding survivor feedback -->
+<text>
+	<id>108</id>
+	<name>Hurry, come here!</name>
+ </text>
+
+<text>
+	<id>109</id>
+	<name>Take it!</name>
+ </text>
+
+<text>
+	<id>110</id>
+	<name>I see you!</name>
+ </text>
+
+<text>
+	<id>111</id>
+	<name>I have nothing to offer in return. Sorry, ask someone else</name>
+ </text>
+
+<text>
+	<id>112</id>
+	<name>He's here!</name>
+ </text>
+
+
+
+<!--Survivor feedback -->
+
+<text>
+	<id>125</id>
+	<name>I am peaceful</name>
+ </text>
+
+<text>
+	<id>126</id>
+	<name>Fine</name>
+ </text>
+
+<text>
+	<id>127</id>
+	<name>Thank you for repairing the boat for us</name>
+ </text>
+
+<!--Update 1.2.0 Added -->
+
+<text>
+	<id>86</id>
+	<name>This rifle cannot be made into a sawed-off shotgun</name>
+ </text>
+
+<text>
+	<id>87</id>
+	<name>This door is completely broken</name>
+ </text>
+
+<text>
+	<id>88</id>
+	<name>There's gas here! I need a gas mask!</name>
+ </text>
+
+<!--Update 1.3.0 Added -->
+
+<text>
+	<id>89</id>
+	<name>For this I need a car</name>
+ </text>
+
+<text>
+	<id>90</id>
+	<name>I can't do this while in the car</name>
+ </text>
+
+<text>
+	<id>91</id>
+	<name>This car is already in good condition</name>
+ </text>
+
+<text>
+	<id>92</id>
+	<name>This car is already fully fueled</name>
+ </text>
+
+<!--Task-->
+
+<text>
+	<id>131</id>
+	<name>I have nothing to tell you</name>
+ </text>
+
+<text>
+	<id>132</id>
+	<name>For this I need a lake or a sea</name>
+ </text>
+
+<text>
+	<id>133</id>
+	<name>I don't see any fish nearby</name>
+ </text>
+
+<text>
+	<id>135</id>
+	<name>I'm not sick</name>
+ </text>
+
+<text>
+	<id>136</id>
+	<name>Thanks again for your help. We'll be heading out soon</name>
+ </text>
+
+<text>
+	<id>137</id>
+	<name>You found a note with notes about various places on the map</name>
+ </text>
+
+<text>
+	<id>138</id>
+	<name>Thank you! Your reward has been marked on the map</name>
+ </text>
+
+<text>
+	<id>140</id>
+	<name>Gotcha!</name>
+ </text>
+
+<text>
+	<id>141</id>
+	<name>Slip away</name>
+ </text>
+
+<text>
+	<id>142</id>
+	<name>Dismantling is complete</name>
+ </text>
+
+<text>
+	<id>143</id>
+	<name>There is no furniture that could be disassembled</name>
+ </text>
+
+<text>
+	<id>144</id>
+	<name>I need to install a vinyl record player</name>
+ </text>
+
+<text>
+	<id>145</id>
+	<name>I cooked an egg</name>
+ </text>
+
+<text>
+	<id>146</id>
+	<name>I enjoyed the delicious..</name>
+ </text>
+
+<text>
+	<id>147</id>
+	<name>I cooked eggs with tomatoes</name>
+ </text>
+
+<text>
+	<id>148</id>
+	<name>First aid is complete, I am in excellent condition now</name>
+ </text>
+
+<text>
+	<id>149</id>
+	<name>No primary weapon or cannot be removed</name>
+ </text>
+
+<text>
+	<id>150</id>
+	<name>An ordinary person, possibly a mushroom</name>
+ </text>
+
+<text>
+	<id>151</id>
+	<name>You turned it on yourself, now be patient! Nobody pulled your finger)))</name>
+ </text>
+
+<text>
+	<id>152</id>
+	<name>Now there are infinite stacks in the inventory</name>
+ </text>
+
+<text>
+	<id>153</id>
+	<name>Now you will be attacked by anyone and everyone</name>
+ </text>
+
+<text>
+	<id>154</id>
+	<name>The weapon now has infinite durability</name>
+ </text>
+
+<text>
+	<id>155</id>
+	<name>The number of zombies has been doubled</name>
+ </text>
+
+<text>
+	<id>156</id>
+	<name>Now all the enemies on the island are running towards you</name>
+ </text>
+
+<text>
+	<id>157</id>
+	<name>Now you are twice as fast</name>
+ </text>
+
+<text>
+	<id>158</id>
+	<name>Now all enemies shoot at you with a clip and not in bursts</name>
+ </text>
+
+<text>
+	<id>159</id>
+	<name>You need to make a fire, prepare 3 eggs and 1 tomato</name>
+ </text>
+
+<text>
+	<id>160</id>
+	<name>There are no materials for sewing</n<<<ame>
+ </text>
+
+<text>
+	<id>161</id>
+	<name>It is necessary to prepare materials</name>
+ </text>
+
+<text>
+	<id>162</id>
+	<name>There is no room for sewing materials</name>
+ </text>
+
+<text>
+	<id>163</id>
+	<name>You need to light a fire, cook 2 steaks and 3 green peppers</name>
+ </text>
+
+<text>
+	<id>164</id>
+	<name>I cooked Meat with pepper</name>
+ </text>
+<text>
+	<id>165</id>
+	<name>Now I see at night like an owl!</name>
+ </text>
+
+<text>
+	<id>166</id>
+	<name>It doesn't work</name>
+ </text>
+
+<text>
+	<id>167</id>
+	<name>Turn on the ruler</name>
+ </text>
+
+<text>
+	<id>168</id>
+	<name>Disable ruler</name>
+ </text>
+
+<text>
+	<id>169</id>
+	<name>Turn on the irradiation zone</name>
+ </text>
+
+<text>
+	<id>170</id>
+	<name>Enable casualness</name>
+ </text>
+
+<text>
+	<id>171</id>
+	<name>I need a gas station where I can fill up.</name>
+</text>
+
+<text>
+	<id>172</id>
+	<name>I have gas.</name>
+</text>
+
+<text>
+	<id>173</id>
+	<name>I need a sledgehammer.</name>
+</text>
+
+<text>
+	<id>174</id>
+	<name>There are no transformable objects on the ground.</name>
+</text>
+
+<text>
+	<id>175</id>
+	<name>Successful transformation</name>
+</text>
+
+<text>
+	<id>176</id>
+	<name>I need a building with electricity</name>
+</text>
+
+<text>
+	<id>177</id>
+	<name>Construction completed</name>
+</text>
+
+<text>
+	<id>178</id>
+	<name>There is nothing to dig nearby.</name>
+</text>
+
+<text>
+	<id>179</id>
+	<name>Success in the Mining Industry</name>
+</text>
+
+<text>
+	<id>180</id>
+	<name>If you didn't live well, there's no point in starting.</name>
+</text>
+
+<text>
+	<id>181</id>
+	<name>I don't have a dog.😭</name>
+</text>
+
+<text>
+	<id>182</id>
+	<name>I fed the dog</name>
+</text>
+
+<text>
+	<id>183</id>
+	<name>Not a complete set</name>
+</text>
+
+<text>
+	<id>184</id>
+	<name>Activation was successful</name>
+</text>
+
+<text>
+	<id>185</id>
+	<name>There is no equipment to attach the bag to.</name>
+</text>
+
+<text>
+	<id>186</id>
+	<name>Attached</name>
+</text>
+
+<text>
+	<id>187</id>
+	<name>There are no objects for dismantling nearby.</name>
+</text>
+
+<text>
+	<id>188</id>
+	<name>No back suspension</name>
+</text>
+
+<text>
+	<id>189</id>
+	<name>There is nothing to recycle around</name>
+</text>
+
+<text>
+	<id>190</id>
+	<name>Successful recycling</name>
+</text>
+
+<text>
+	<id>191</id>
+	<name>There is no one around to rob.</name>
+</text>
+
+<text>
+	<id>192</id>
+	<name>Robbery complete</name>
+</text>
+
+<text>
+	<id>193</id>
+	<name>Unlined</name>
+</text>
+
+<text>
+	<id>194</id>
+	<name>I need a generator nearby.</name>
+</text>
+
+<text>
+	<id>195</id>
+	<name>Charging is complete.</name>
+</text>
+
+<text>
+	<id>196</id>
+	<name>I need a signal tower nearby.</name>
+</text>
+
+<text>
+	<id>197</id>
+	<name>The tank was called.</name>
+</text>
+
+<text>
+	<id>611</id>
+	<name>I gained a lot of new knowledge!</name>
+ </text>
+
+</list>
